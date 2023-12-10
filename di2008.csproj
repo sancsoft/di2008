@@ -5,6 +5,10 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <Title>DI2008 Demo</Title>
+    <Company>Sanctuary Software Studio, Inc.</Company>
+    <Authors>Michael Terry</Authors>
+    <Copyright>Copyright (c) 2023</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
